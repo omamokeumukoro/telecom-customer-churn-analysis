@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.env
+__pycache__/
+*.csv
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.ods
+*.pbix
+*.pyc
